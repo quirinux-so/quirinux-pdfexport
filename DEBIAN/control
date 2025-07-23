@@ -1,0 +1,11 @@
+Package: quirinux-pdfexport
+Version: 1.0.7
+Architecture: all
+Maintainer: Charlie Martinez <cmartinez@quirinux.org>
+Installed-Size: 119
+Depends: python3, python3-tk, poppler-utils, pandoc, unoconv, ghostscript
+Section: contrib/misc
+Priority: optional
+Description: Exportar/Convertir PDF en .odt, .doc y .docx
+ Convertir PDF en .odt, .doc y .docx
+ Autor: Charlie Martínez

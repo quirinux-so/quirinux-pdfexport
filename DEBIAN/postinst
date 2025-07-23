@@ -1,0 +1,18 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installmenu/13.11.4
+if [ "$1" = "configure" ] && [ -x "`command -v update-menus`" ] && [ -x "$DPKG_ROOT`command -v update-menus`" ]; then
+	update-menus
+fi
+# End automatically added section
+
+
+# Comprobar si el archivo existe
+if [ -f "/usr/share/applications/pdf-export.desktop" ]; then
+  # Borrar el archivo
+  rm "/usr/share/applications/pdf-export.desktop"
+  echo "Archivo borrado con éxito."
+else
+  echo "El archivo no existe."
+fi
+

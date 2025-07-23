@@ -1,0 +1,22 @@
+[Desktop Entry]
+Version=1.0
+Name=PDF Export
+Comment=Convertir PDF en .odt, .doc y .docx
+
+Comment=Convert PDF to .odt, .doc and .docx
+Comment[es]=Convertir PDF a .odt, .doc y .docx
+Comment[gl]=Converte PDF a .odt, .doc e .docx
+Comment[fr]=Convertir PDF en .odt, .doc et .docx
+Comment[it]=Converti PDF in .odt, .doc e .docx
+Comment[de]=Konvertiere PDF in .odt, .doc und .docx
+Comment[pt_BR]=Converter PDF para .odt, .doc e .docx
+Comment[pt]=Converter PDF para .odt, .doc e .docx
+
+
+
+Exec=pdfexport
+Icon=pdfexport
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=PDF;
