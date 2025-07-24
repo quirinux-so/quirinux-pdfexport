@@ -1,12 +1,9 @@
 
-<img width="64" height="64" alt="pdfexport" src="https://github.com/user-attachments/assets/5f307c4b-1c0f-4dad-8440-2886784e5f62" />
-
-# Quirinux PDF Export
+# <img width="32" alt="pdfexport" src="https://github.com/user-attachments/assets/5f307c4b-1c0f-4dad-8440-2886784e5f62" /> Quirinux PDF Export
 
 (c) Charlie Martínez – Quirinux GNU/Linux, GPLv2  
 
-![pdfexport](https://github.com/user-attachments/assets/68a340b9-49ab-405e-aecc-b0de959f8d91)
-
+<img width="449" height="339" alt="imagen" src="https://github.com/user-attachments/assets/ee7c19ef-605e-4b35-b828-7b55f68e80ea" />
 
 ## 🇪🇸 Español  
 **Quirinux PDF Export** es una aplicación gráfica, multilingüe y offline para convertir archivos PDF en documentos editables (ODT, DOC o DOCX).  
